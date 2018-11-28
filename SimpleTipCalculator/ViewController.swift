@@ -16,6 +16,7 @@ class ViewController: UIViewController {
         
         //Commit test branch
         var result = "Test branch changes"
+        var result = "mster branch changes"
     }
 
     override func didReceiveMemoryWarning() {
